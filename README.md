@@ -16,7 +16,7 @@ within <title> tags the title of the page is put and this corresponds to what is
 
 headings such as <h1> are bolder and bigger naturally and number goes higher the heading size goes smaller
 
-<strong> element buts anything in between it as bold
+<strong> element buts anything in between it as bold </strong>
 
 nested and indented elements are child elements of a parent element and any element on the same indentation level are sibling elements.
 
