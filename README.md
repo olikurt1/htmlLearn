@@ -14,7 +14,7 @@ within <title> tags the title of the page is put and this corresponds to what is
 
 <p>paragraph1<p><p>paragraph2<p>
 
-headings such as <h1> are bolder and bigger naturally and number goes higher the heading size goes smaller
+headings such as <h1> are bolder and bigger naturally and number goes higher the heading size goes smaller</h1>
 
 <strong> element buts anything in between it as bold </strong>
 
