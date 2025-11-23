@@ -22,4 +22,25 @@ nested and indented elements are child elements of a parent element and any elem
 
 lorem shortcut prints a lot of dummy text
 
+--Lists
 An un ordered list is created through <ul> and to create items within this list indented items should have <li> wrapping them 
+
+--Links and images
+To create an HTML link an anchor element <a>should be used</a>
+Within the opening <a> tag a href (hypertext reference) has to be put in to actually be taken to another page. Doing so opens the page in the same tab 
+
+Using target attribute means that a link can be opened in a new/separate tab. 
+
+the rel (relationship) attribute describes the relationship between the current page and linked document.
+noopener: prevents new pag from manipulating original page
+noreferrer: prevents new page from knowing where user came from and includes noopener behaviour
+
+Absolute links include the entire path of a web page. Relative links include the path up to the related directory.
+
+<img src="relative or absoulte path of image">: this tag implies void content due to there being an image and src being the "source" attribute.
+
+The alt attribute can be used instead of the src when an image description is needed because the image itself won't load. 
+
+
+
+
