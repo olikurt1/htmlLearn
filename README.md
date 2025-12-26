@@ -79,9 +79,28 @@ Selectors refer to the HTML elements which the CSS declaration rules apply to es
 
  Can add CSS to HTML via external where a link is added to the css file in the html head. 
 
- Can add it internally to the HTML file by placing all selectors and declarations within <style> elements
+ Can add it internally to the HTML file by placing all selectors and declarations within <style> elements</style>
 
  inline CSS means it can be added directly one HTML element by placing it into the tag with the style attribute. 
+
+# cssLearn
+
+Summary of what wasnt added:
+Different types of selectors when using a css file such as classes, ID and type selectors, these provide specificity to elements regarding which styles are applied to which elements. There are also universal selector which is applied to every HTML element. ID selector is the most specific.
+
+Styles can have more than one selector applied to them, this way a single selector can have its own style but then that same selector can be chained to another selector and have different style. Or there can be descendant selector where one element is the child of another and it has the parents style applied to it.
+
+
+## Box and Padding
+every element within an html file is a box/has a border surrounding it.
+Padding: width between actual content and border
+Border: the space between padding and margin
+Margin: space between the border of one box and an adjacent box
+
+
+
+
+
 
  
 
